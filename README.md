@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Stella! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
   <p>
-    <a href="www.linkedin.com/in/stella-maladaki" target="www.linkedin.com/in/stella-maladaki">
+    <a href="https://www.linkedin.com/in/stella-maladaki" target="www.linkedin.com/in/stella-maladaki">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:your-maladakistella@gmail.com">
