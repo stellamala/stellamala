@@ -12,3 +12,14 @@
   </p>
 </div>
 
+<div>
+  Core Skills: 
+    Python (Rasterio, GDAL, xarray), 
+    Machine Learning (Random Forest, SVM), 
+    Sentinel-1 data, SAR Interferometry.
+  What I’m working on: 
+    Developing streamlined pipelines for persistent scatterer SAR data and agricultural spatial analysis.
+
+  Current Focus: 
+    Integrating Earth Observation data with predictive ML models for environmental consultancy.
+</div>
